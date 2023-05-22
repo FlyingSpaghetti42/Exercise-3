@@ -1,0 +1,8 @@
+id; name; addr
+1; Itis;
+2; Forum;
+3; Iso-omena;
+4; Sello;
+5; Jumbo;
+6; REDI;
+7; Tripla;
